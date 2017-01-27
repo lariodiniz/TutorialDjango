@@ -1,12 +1,14 @@
 # TutorialDjango
-O Tutorial Padrão do Django
 
-    -- Dependencias
+O Tutorial Padrão do Django:
+https://docs.djangoproject.com/en/1.10/intro/
+
+-- Dependencias
       Python 2.7
       Django 1.10
       virtualEnv
     
-    --- Instalação 
+--- Instalação 
     
     1- Instale na sua maquina o Python e o PIP para instalações de pacotes.
     
@@ -24,7 +26,7 @@ O Tutorial Padrão do Django
     6 - Tutorial rodando.
      
      
-     ---Ambiente de deenvolvimento:
+---Ambiente de deenvolvimento:
       Sistema operacional: Ubuntu.
       Controlador de Versão: Git.
       IDE: Pycharm.
