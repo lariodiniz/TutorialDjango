@@ -12,9 +12,9 @@ O Tutorial Padrão do Django:
     
 1 - Instale na sua máquina o Python e o PIP para instalações de pacotes.
 
-    * [Instalar no Windows][0]
+* [Instalar no Windows][0]
 
-    * [Instalar no Mac ou Linux (via pyend)][1]
+* [Instalar no Mac ou Linux (via pyend)][1]
     
 2 - Instale o VirtualEnv. (*No Python 3.x o VirtualEnv já vem embutido*).
     
